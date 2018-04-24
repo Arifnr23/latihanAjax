@@ -6,6 +6,7 @@ $a[] = "Buk Dwi Manis";
 $a[] = "Cistin";
 $a[] = "Melisa";
 $a[] = "Kurnia Prijiandi";
+$a[] = "Arif Nurrahman";
 
 //get the q parameter from URl
 $q = $_REQUEST["q"];
